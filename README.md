@@ -21,10 +21,6 @@ Aplicação para disponibilizar via API RestFull notas de alunos desenvolvido no
 4. Executar o comando `yarn start`. Ex: `yarn start`
 5. Acessar o endereço `http://localhost:3001/` conforme rotas definidas no item rotas
 
-### ![](https://img.icons8.com/wired/20/000000/react.png) Frontend
-
-Para utilização da API, foi desenvolvido uma camada de apresentação que pode ser baixada [aqui][frontend]
-
 ### ![](https://img.icons8.com/metro/20/000000/run-command.png) Rotas
 
 #### `/grade/`
@@ -121,13 +117,16 @@ HTTP POST para inserção de registros. O formato da solicitação é JSON.
 ##### Exemplo de retorno:
 
 ```Json
-
 {
   "id": 4
 }
 
-
 ```
+
+### ![](https://img.icons8.com/wired/20/000000/react.png) Frontend
+
+Para utilização da API, foi desenvolvido uma camada de apresentação que pode ser baixada [aqui][frontend]
+
 
 <!-- :hammer:-->
 
@@ -167,3 +166,6 @@ Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/
   <a href="https://icons8.com/icon/">Icons by Icons8</a>
   
 </p>
+
+
+[frontend]: https://github.com/cicerorod/igti-fullstack-mod3-react-votes-frontend
