@@ -168,4 +168,4 @@ Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/
 </p>
 
 
-[frontend]: https://github.com/cicerorod/igti-fullstack-mod3-react-votes-frontend
+[frontend]: https://github.com/cicerorod/igti-fullstack-mod3-react-controle-de-notas-frontend-hooks
