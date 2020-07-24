@@ -1,4 +1,4 @@
-# API pra controle de notas ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# API para controle de notas ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Aplicação para disponibilizar via API RestFull notas de alunos desenvolvido no bootcamp fullstack da IGTI
 
